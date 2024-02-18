@@ -21,7 +21,7 @@ o Botão selecionado muda sua aparencia de desativado para ativado .
 
 ✋✋✋✋✋✋✋✋✋✋✋
 
-[click aqui para testar o projeto](https://anvilproject.org/guides/content/creating-links)  👈
+[click aqui para testar o projeto](https://fernando-batista.github.io/ventilador/)  👈
 
 ##
 projeto desenvolvido por ***Fernando Batista***
