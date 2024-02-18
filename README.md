@@ -17,7 +17,7 @@ o Botão selecionado muda sua aparencia de desativado para ativado .
 
 ![diferença do Botão ativado](/docus/image/bt_state.PNG) 
 
-um botao selecionado fica assim  <div style="width : 20px; height:20px;border-radius : 50%; background : lightblue;"></div>
+***Botão ativado fica na cor azul claro***
 
 ✋✋✋✋✋✋✋✋✋✋✋
 
